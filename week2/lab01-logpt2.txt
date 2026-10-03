@@ -1,0 +1,112 @@
+    1  pwd
+    2  ls
+    3  ls -Force
+    4  cd
+    5  cd desktop
+    6  cd
+    7  exit
+    8  cd
+    9  wsl
+   10  exit
+   11  cd Desktop
+   12  cd Desktop/
+   13  ls
+   14  ls -a
+   15  cd Downloads/
+   16  cd
+   17  cd Desktop
+   18  cd Downloads/
+   19  exit
+   20  cs -
+   21  cd - 
+   22  cd
+   23  cd -
+   24  cd Desktop/
+   25  cd desktop/cd desktop/
+   26  cd desktop/
+   27  ls
+   28  pwd
+   29  ls
+   30  ls -Force
+   31  cd /mnt/c/Users/Uesha/OneDrive/Desktop
+   32  ls
+   33  ls -Force
+   34  ls - a
+   35  ls -a
+   36  clear
+   37  mkdir coding-cafe
+   38  cd coding-cafe
+   39  mkdir week01
+   40  ls
+   41  mkdir week02
+   42  cd week02
+   43  touch notes.md
+   44  ls
+   45  code notes.md
+   46  ls
+   47  history
+   48  exit
+   49  cd Onedrive
+   50  cd coding-cafe
+   51  cd Desktop
+   52  cd coding-cafe
+   53  cp README.md README-backup.md
+   54  mv README-backup.md week01\
+   55  cd week01
+   56  cd week1
+   57  mv README-backup.md old-readme.md
+   58  mv README-backup.md week1
+   59  mv README-backup.md week1cd week1
+   60  cd -
+   61  mv README-backup.md week1cd week1
+   62  cp README.md README-backup.md
+   63  mv README-backup.md week1
+   64  cd week1
+   65  mv README-backup.md old-readme.md
+   66  ls
+   67  rm old-readme.md
+   68  $env:Path
+   69  cd-
+   70  cd -
+   71  $env:Path
+   72  $env;Path
+   73  Path
+   74  echo $PATH
+   75  $echo:Path -split ';'
+   76  echo $PATH -split ':'
+   77  Get-Command python
+   78  which python
+   79  which pip
+   80  which ls
+   81  which python
+   82  which python3
+   83  pyton3
+   84  cd ~/coding-cafe
+   85  python3 -m venv .venv
+   86  sudo apt install python3.14-venv
+   87  python3 -m venv .venv
+   88  sudo apt update && sudo apt install python3-venv
+   89  ls
+   90  ls -a
+   91  source .venv/bin/activate
+   92  python3 -m venv .venv
+   93  source .venv/bin/activate
+   94  python3 -m venv .venv
+   95  ls
+   96  source .venv/bin/activate
+   97  which python3
+   98  pip list
+   99  pip install request
+  100  sudo apt install python3-pip
+  101  pip list
+  102  pip install requests
+  103  pip list
+  104  deactivate
+  105  which python3
+  106  man ls
+  107  ls -h
+  108  man man
+  109  history
+  110  python3
+  111  history > week02/lab01-log.txt
+  112  history > week2/lab01-log.txt

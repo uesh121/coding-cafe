@@ -1,0 +1,120 @@
+    1  pwd
+    2  ls
+    3  ls -Force
+    4  cd
+    5  cd desktop
+    6  cd
+    7  exit
+    8  cd
+    9  wsl
+   10  exit
+   11  cd Desktop
+   12  cd Desktop/
+   13  ls
+   14  ls -a
+   15  cd Downloads/
+   16  cd
+   17  cd Desktop
+   18  cd Downloads/
+   19  exit
+   20  cs -
+   21  cd - 
+   22  cd
+   23  cd -
+   24  cd Desktop/
+   25  cd desktop/cd desktop/
+   26  cd desktop/
+   27  ls
+   28  pwd
+   29  ls
+   30  ls -Force
+   31  cd /mnt/c/Users/Uesha/OneDrive/Desktop
+   32  ls
+   33  ls -Force
+   34  ls - a
+   35  ls -a
+   36  clear
+   37  mkdir coding-cafe
+   38  cd coding-cafe
+   39  mkdir week01
+   40  ls
+   41  mkdir week02
+   42  cd week02
+   43  touch notes.md
+   44  ls
+   45  code notes.md
+   46  ls
+   47  history
+   48  exit
+   49  ```powershell
+   50  pwd
+   51  pwd
+   52  ls
+   53  ls -a
+   54  cd Onedrive
+   55  cd Desktop
+   56  mkdir coding-cafe
+   57  cd coding cafe
+   58  cd coding-cafe
+   59  mkdir week1 week2
+   60  ni README.MD
+   61  touch README.MD
+   62  cd week2
+   63  touch NOTES.MD
+   64  ls coding-cafe\week2
+   65  ls coding-cafe
+   66  ls
+   67  cd
+   68  ls -Recurse coding-cafe
+   69  cd-
+   70  cd
+   71  cd~
+   72  cd..
+   73  cd/
+   74  cd
+   75  cd -
+   76  cd Onedrive/Desktop/coding-cafe
+   77  cd Onedrive
+   78  cd
+   79  cd -
+   80  cd home
+   81  cd uesha
+   82  pwd
+   83  cd Onedrive
+   84  cd ~
+   85  pwd
+   86  cd coding-cafe
+   87  ls
+   88  cd Desktop
+   89  cd C:\Users
+   90  cd uesha
+   91  cd Uesha
+   92  cd..
+   93  cd ~/Desktop
+   94  cd ~/Onedrive
+   95  cd
+   96  pwd
+   97  cd ..
+   98  cd Onedrive
+   99  cd Desktop
+  100  cd Eshan-Personal
+  101  cd Uesha
+  102  wsl
+  103  cd -
+  104  pwd
+  105  ls
+  106  wsl
+  107  history
+  108  -bash: week2/lab01-logpt1.txt: 
+  109  wsl
+  110  cd
+  111  cd -
+  112  exit
+  113  history
+  114  -bash: week2/lab01-logpt1.txt
+  115  history > week02/lab01-logpt1.txt
+  116  history > week2/lab01-logpt1.txt
+  117  cd OneDrive
+  118  cd Desktop
+  119  cd coding-cafe
+  120  history > week2/lab01-logpt1.txt
